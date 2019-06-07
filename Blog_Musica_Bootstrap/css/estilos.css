@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  font-size: 17px;
+}
+
+header {
+  background-color: #bbdefb;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img-responsive{
+  width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.icons-right{
+  position: relative;
+  margin-top: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+a{
+  color: black;
+}
+
+a:hover{
+  color: red;
+}
+
+a.facebook-color:hover{
+  color: blue;
+}
+
+a.twitter-color:hover{
+  color:#33CCFF;
+}
+
+a.instagram-color:hover{
+  color:#FD1D1D;
+}
+
+.nav{
+  display:contents;
+}

@@ -1,0 +1,49 @@
+body {
+  background: url(../img/fondo-playa.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  width: 100%;
+  height: 100%;
+}
+
+.navegacion {
+background-color: rgba(130, 224, 170, 0.4);
+background-attachment: fixed;
+}
+
+.btn-large {
+  background-color: #0767A1;
+  border-radius: 20px;
+}
+
+#boton_nav ul a {
+  text-decoration: none;
+  color: black;
+}
+#boton_nav ul a:hover {
+  	background-color: #33D7FF;
+    border-radius: 30px;
+}
+
+header {
+font-style: italic;
+color: #FFFFFF;
+}
+
+.container {
+  background-color: rgba(130, 148, 159, 0.8);
+}
+
+.callout {
+  background-color: rgba(29, 75, 219, 0.5);
+}
+
+.callout h5,p{
+  color: #FFFFFF;
+}
+
+form {
+color: white;
+}
